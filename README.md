@@ -77,6 +77,36 @@ The project has reached the MVP development and validation stage. Content qualit
 
 **Note:** The figures above represent the documented project scope and may change as the product evolves.
 
----
+
+
+## 8. Product Screenshots
+
+The following screenshots demonstrate the main user-facing features of Xiaolian.
+
+### 1. Home Page – Personalized Learning Dashboard
+
+A daily learning dashboard that recommends study tasks, highlights learning priorities, and provides quick access to key learning modules.
+
+![Home Page](assets/home.png)
+
+### 2. Dictionary – Vocabulary Search & Management
+
+An integrated English-Chinese dictionary with word search, recent search history, vocabulary browsing, and audio-assisted learning.
+
+![Dictionary](assets/dictionary.png)
+
+### 3. Practice Modules – Structured Learning
+
+A modular learning interface covering four core areas: vocabulary, grammar, cloze exercises, and reading comprehension.
+
+![Practice Modules](assets/practice.png)
+
+### 4. Learning Profile – Progress Tracking
+
+A personal learning dashboard featuring practice statistics, accuracy tracking, error review, vocabulary collections, and study preferences.
+
+![Learning Profile](assets/profile.png)
+
+------
 
 *This repository presents a public-facing project overview. Original source code and learning datasets are maintained separately.*
